@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurva Sarkar</h1>
-<h3 align="center">A passionate Software developer from India, Interested in Backend, Gen-AI,Cyber Security</h3>
+<h3 align="center">Hey 👋, I'm currently persuing B-Tech in Computer Science under MAKAUT University, with aspirations in CyberSecurity and BACKEND Development.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvasarkar&label=Profile%20views&color=0e75b6&style=flat" alt="apurvasarkar" /> </p>
 
